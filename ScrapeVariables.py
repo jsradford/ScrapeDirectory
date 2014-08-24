@@ -2,7 +2,7 @@
 
 validPaths=[
     'C:\\Users\\USER_NAME_HERE\\Documents', #note, this a default path.
-    'NETWORK_ROOT:\\'NETWORK_DIRECTORIES',
+    'NETWORK_ROOT:\\NETWORK_DIRECTORIES',
 ]
 
 blackList=['']  #list of strings for filenames you want the metadata for, but 
